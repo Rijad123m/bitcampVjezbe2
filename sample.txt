@@ -1,2 +1,5 @@
 Eldin je sada mali rijad.
 Ferid je piccolo rijad.
+Nedim je najmanji rijad.
+
+ovo je sa developmenta
