@@ -3,4 +3,10 @@ Ferid je piccolo rijad.
 Nedim je najmanji rijad.
 
 ovo je sa developmenta
+<<<<<<< HEAD
 development sa drugog konflikt akon merga
+=======
+development nakon merga
+
+sa drugog nije nego sa prvog racunara
+>>>>>>> 5bd298b7d5ebfdde0992726b3ea75a84e13ec28e
