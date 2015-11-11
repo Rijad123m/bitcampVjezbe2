@@ -4,3 +4,5 @@ Nedim je najmanji rijad.
 
 ovo je sa developmenta
 development nakon merga
+
+sa drugog nije nego sa prvog racunara
